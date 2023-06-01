@@ -1,7 +1,6 @@
 #!/bin/bash
 
-# written by hosein yousefi
-# change the docker daemon.json file to add live-restore directive
+# add live-restore
 
 
 mkdir -p /etc/docker
